@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(113, 145, 186);
+}
+
+section{
+    color: rgb(0, 0, 0);
+    background-color: rgb(205, 72, 10);
+}
+.centrar-imagen {
+    text-align: center;
+}
+img {
+    display: inline-block;
+}
